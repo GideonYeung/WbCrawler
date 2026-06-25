@@ -1,0 +1,20 @@
+{
+    "_说明": "换博主只需修改 user_id 和 save_path，cookie 过期了就更新 cookie",
+
+    "user_id": "6032474791",
+
+    "cookie": "WEIBOCN_FROM=1110006030; SUB=_2AkMdYHUYf8NxqwFRnPgdzmrrb4RxywrEieKrPITDJRM3HRl-yT9yqhAjtRB6NuBb9zPBYxVWsJsUme1gL5A1QKlB9w92; SUBP=0033WrSXqPxfM72-Ws9jqgMF55529P9D9WF1Ujd4HnJ26dBsDlGVshal; MLOGIN=0; _T_WM=24142035794; XSRF-TOKEN=f723a5; M_WEIBOCN_PARAMS=luicode%3D10000011%26lfid%3D1076031773761872%26launchid%3D10000360-page_H5%26fid%3D1076036032474791%26uicode%3D10000011",
+
+    "save_path": "D:/weibosrc/",
+
+    "page_start": 1,
+    "page_end": 10,
+
+    "thread_count": 2,
+
+    "page_sleep_min": 3,
+    "page_sleep_max": 8,
+
+    "img_sleep_min": 1,
+    "img_sleep_max": 3
+}
